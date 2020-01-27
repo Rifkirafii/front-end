@@ -1,2 +1,4 @@
 # front-end
-untuk membuat font end disistem persuratan
+untuk membuat front end disistem persuratan
+tugas admin
+membuat surat Input edit delete pada surat masuk,surat keluar.
