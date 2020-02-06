@@ -1,4 +1,5 @@
 # front-end
 untuk membuat front end disistem persuratan
-tugas admin
-membuat surat Input,edit,delete,dan membuatdesposisi pada surat masuk dan surat keluar.
+Tugas admin:
+membuat surat Input,edit,delete,dan membuat desposisi pada surat masuk dan surat keluar.
+Tugas User
